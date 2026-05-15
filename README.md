@@ -27,26 +27,46 @@ TechnologyPurposeReact.jsFrontend UI frameworkReact RouterClient-side routingCon
 
 📁 Project Structure
 frontend/
+
 ├── public/
+
 │   └── index.html
+
 ├── src/
-│   ├── assets/          # Images and icons
+
+│   ├── assets/  # Images and icons
+
 │   ├── components/      # Reusable components
+
 │   │   ├── Navbar/
+
 │   │   ├── Footer/
+
 │   │   ├── FoodItem/
+
 │   │   ├── FoodDisplay/
+
 │   │   ├── LoginPopup/
 │   │   └── ExploreMenu/
+
 │   ├── context/         # Global state (Cart, Auth)
+
 │   ├── pages/           # Page-level components
+
 │   │   ├── Home/
+
 │   │   ├── Cart/
+
 │   │   ├── PlaceOrder/
+
 │   │   └── MyOrders/
+
 │   ├── App.jsx
+
 │   └── main.jsx
+
 ├── package.json
+
 └── .env
 
 ⚙️ Getting Started
