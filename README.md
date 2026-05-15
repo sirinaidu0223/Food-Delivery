@@ -47,6 +47,7 @@ frontend/
 │   │   ├── FoodDisplay/
 
 │   │   ├── LoginPopup/
+
 │   │   └── ExploreMenu/
 
 │   ├── context/         # Global state (Cart, Auth)
